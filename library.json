@@ -1,0 +1,14 @@
+{
+  "name": "Buffer",
+  "version": "0.0.1",
+  "description": "Library for save data in buffer manipulation",
+  "keywords": "buffer",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/elekon-vyskov/buffer.git"
+  },
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*"
+}
