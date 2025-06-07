@@ -1,8 +1,8 @@
 {
   "name": "Buffer",
   "version": "0.0.1",
-  "description": "Library for save data in buffer manipulation",
-  "keywords": "buffer",
+  "description": "A simple C library for working with data buffers.",
+  "keywords": "buffer, c, data, simple",
   "repository":
   {
     "type": "git",
