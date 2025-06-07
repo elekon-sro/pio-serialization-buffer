@@ -1,12 +1,12 @@
 {
   "name": "Buffer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple C library for working with data buffers.",
   "keywords": "buffer, c, data, simple",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/elekon-vyskov/buffer.git"
+    "url": "https://github.com/elekon-sro/buffer.git"
   },
   "license": "MIT",
   "frameworks": "*",
