@@ -1,6 +1,10 @@
 #ifndef BUFFER_H
 #define BUFFER_H
 
+#ifdef __cplusplus
+extern "C" {
+#endif
+
 #include <stdint.h>
 #include <stddef.h>
 #include <stdbool.h>
@@ -238,5 +242,9 @@ bool Buffer_Read(ConstBuffer * source, void * destination, size_t destinationSiz
  * @see printf
  */
 size_t Buffer_Format(Buffer * buff, const char * format, ...);
+
+#ifdef __cplusplus
+}
+#endif
 
 #endif /* BUFFER_H */
