@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Author: ELEKON, s.r.o., Vyškov
+
 #ifndef BUFFER_H
 #define BUFFER_H
 

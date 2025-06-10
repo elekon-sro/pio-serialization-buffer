@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Author: ELEKON, s.r.o., Vyškov
+
 #include "unity.h"
 
 #include <string.h>
