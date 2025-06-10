@@ -17,6 +17,9 @@
       "maintainer": true
     }
   ],
+  "dependencies": {
+    "serde": "https://github.com/elekon-sro/pio-serialization-data.git#v0.1.0"
+  },
   "license": "MIT",
   "frameworks": "*",
   "platforms": "*"
